@@ -369,26 +369,26 @@
     "time": "30 m",
     "reversible": true,
     "autolearn": true,
-    "components": [ [ [ "cotton_patchwork", 24 ] ] ],
+    "components": [ [ [ "sheet_cotton", 3 ], [ "sheet_cotton_patchwork", 3 ] ] ],
     "flags": [ "BLIND_HARD" ]
   },
   {
     "result": "bellywrap_fur",
     "type": "recipe",
     "copy-from": "bellywrap",
-    "components": [ [ [ "fur", 24 ] ] ]
+    "components": [ [ [ "tanned_pelt", 1 ], [ "sheet_fur_patchwork", 1 ] ] ],
   },
   {
     "result": "bellywrap_leather",
     "type": "recipe",
     "copy-from": "bellywrap",
-    "components": [ [ [ "leather", 24 ] ] ]
+    "components": [ [ [ "tanned_hide", 1 ], [ "sheet_leather_patchwork", 1 ] ] ],
   },
   {
     "result": "bellywrap_wool",
     "type": "recipe",
     "copy-from": "bellywrap",
-    "components": [ [ [ "felt_patch", 40 ] ] ]
+    "components": [ [ [ "sheet_felt_patchwork", 4 ], [ "sheet_felt", 4 ] ] ],
   },
   {
     "result": "chestwrap",
